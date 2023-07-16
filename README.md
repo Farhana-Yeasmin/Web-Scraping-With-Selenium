@@ -13,4 +13,4 @@ This is a JavaScript-rendered website. To parse this web page using <strong>Sele
 <li>Python</li><li>Chromium Webdriver</li><li>Selenium</li>
 
 <strong>Screenshot:</strong>
-![audibleBot.png](..%2F..%2F..%2FPictures%2FScreenshots%2FaudibleBot.png)
+![audibleBot](https://github.com/Farhana-Yeasmin/Web-Scraping-With-Selenium/assets/32108194/df68731c-3af3-4d84-b511-1ff1258f30a0)
